@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passaporla", "passaporla\passaporla.csproj", "{8DB96357-C91A-4EC0-8552-5E2C3B5563F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB96357-C91A-4EC0-8552-5E2C3B5563F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB96357-C91A-4EC0-8552-5E2C3B5563F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB96357-C91A-4EC0-8552-5E2C3B5563F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB96357-C91A-4EC0-8552-5E2C3B5563F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72A68D3-6DB0-4DFC-A0B9-0A353C22E7F4}
+	EndGlobalSection
+EndGlobal
